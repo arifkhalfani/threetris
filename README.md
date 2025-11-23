@@ -7,4 +7,5 @@ The Arduino and Python script runs at the same time and uses the Serial port to 
 Features of this game include block collisions, move left/right, push down, 90 degrees clockwise rotation, line clears, and scorekeeping (internal data not displayed).
 
 Demo video: https://drive.google.com/file/d/1sNpDgyE6S4EKUdl71lB66yO9OxWXJ8j1/view?usp=sharing
+
 **contains some LED display bugs
